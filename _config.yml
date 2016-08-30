@@ -1,4 +1,3 @@
-layout_spectrum: 0.7718715250957757
 typography_spectrum: 0.8814988892991096
 color:
   brandStrength: 0.38663786998949945
@@ -11,4 +10,6 @@ color:
     - '#EDF7F2'
     - '#4BB5C1'
     - '#7FC6BC'
+layout_spectrum: 0.7718715250957757
 name: free bird
+title: The Turis
